@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-name=""tvg-id="NHKGeneralTV.jp"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png"group-title="DTV5 (540P)",NHK総合 (540p KaitekiTV)
+#EXTINF:-1 tvg-name=""tvg-id="NHKGeneralTV.jp"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png"group-title="DTV (540P)",NHK総合･大阪 (540p KaitekiTV)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 tvg-name=""tvg-id="JOAYDTV.jp"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png"group-title="DTV (540p)",ABCテレビ (540p KaitekiTV)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=10&bind=0&uin=159413&playseek=0
@@ -25,7 +25,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=10&b
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 tvg-name=""tvg-id="NipponTV.jp"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png"group-title="DTV (540p)",日本テレビ (540p KaitekiTV)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-name=""tvg-id="TVAsahi.jp"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png"group-title="DTV5(540P)",テレビ朝日 (540p KaitekiTV)
+#EXTINF:-1 tvg-name=""tvg-id="TVAsahi.jp"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png"group-title="DTV (540P)",テレビ朝日 (540p KaitekiTV)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 tvg-name=""tvg-id="Animax.jp"tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png"group-title="BS (540p)",BSアニマックス (540p KaitekiTV)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=10&bind=0&uin=159413&playseek=0
@@ -69,7 +69,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=10&b
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1  tvg-id="idk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_japan_tv.png" group-title="CS (540p)",ミュージック・ジャパン (540p KaitekiTV)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1  tvg-id="HomeDramaChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/home-drama-channelpng-jp.png" group-title="CS",ホームドラマチャンネル (540p KaitekiTV)
+#EXTINF:-1  tvg-id="HomeDramaChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/home-drama-channelpng-jp.png" group-title="CS (540p)",ホームドラマチャンネル (540p KaitekiTV)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1  tvg-id="EiseiGekijo.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png" group-title="CS (540p)",衛星劇場 (540p KaitekiTV)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22&isp=10&bind=0&uin=159413&playseek=0
